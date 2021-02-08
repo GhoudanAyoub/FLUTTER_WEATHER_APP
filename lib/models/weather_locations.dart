@@ -24,7 +24,7 @@ class WeatherLocation {
 
 final locationList = [
   WeatherLocation(
-    city: 'Kolkata',
+    city: 'MARRAKECH',
     dateTime: '07:50 PM — Monday, 9 Nov 2020',
     temparature: '24\u2103',
     weatherType: 'Night',
@@ -34,7 +34,7 @@ final locationList = [
     humidity: 10,
   ),
   WeatherLocation(
-    city: 'London',
+    city: 'CASABLANCA',
     dateTime: '02:20 PM — Monday, 9 Nov 2020',
     temparature: '15\u2103',
     weatherType: 'Cloudy',
@@ -44,7 +44,7 @@ final locationList = [
     humidity: 82,
   ),
   WeatherLocation(
-    city: 'New York',
+    city: 'AGADIR',
     dateTime: '09:20 AM — Monday, 9 Nov 2020',
     temparature: '17\u2103',
     weatherType: 'Sunny',
@@ -54,7 +54,7 @@ final locationList = [
     humidity: 61,
   ),
   WeatherLocation(
-    city: 'Sydney',
+    city: 'TANJA',
     dateTime: '01:20 AM — Tuesday, 10 Nov 2020',
     temparature: '10\u2103',
     weatherType: 'Rainy',
